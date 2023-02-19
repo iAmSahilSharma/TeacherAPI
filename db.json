@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "firstName": "Sahil",
+    "lastName": "Sharma",
+    "age": 35,
+    "email": "Sahil.Sharma@xyz.com",
+    "headDepartment": "SCE",
+    "teacher": [
+        {
+            "teacherid": 1,
+            "firstName": "Sam",
+            "lastName": "Sharma",
+            "age": 21,
+            "gender": "male",
+            "faculty":"Math's Hon.."
+
+        },
+        {
+            "teacherid": 2,
+            "firstName": "karan",
+            "lastName": "Rajan",
+            "age": 23,
+            "gender": "male",
+            "faculty":"Physic Hon.."
+        }
+    ]
+}
